@@ -1,0 +1,4 @@
+1.phpmyadmin创建数据库以及数据表；
+2.SQL语句如何使用；
+3.MYisam 和 innodb 区别
+4.PHP连接数据库
